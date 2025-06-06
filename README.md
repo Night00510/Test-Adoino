@@ -1,11 +1,11 @@
-# Ardoino Temperture Sensor
+# [Ardoino Temperture Sensor](https://www.tinkercad.com/things/jaCmC2YXz33-arduino-senser-tmp36)
 Test Adoino on tinkercad
 ![image](https://github.com/user-attachments/assets/bda4bf09-9dc5-48cb-9d33-678110206eef)
 ## Ardoino Uno R3
 ## Temperture Sensor [TMP36]
 - power 3.3v
 - Vout A0 pin
-# Ardoino motion sensor
+# [Ardoino motion sensor](https://www.tinkercad.com/things/3eUQEekE9Ae-ardoino-motion-sensor)
 --- digital pin
 ![image](https://github.com/user-attachments/assets/49416acc-f4b5-4024-ab0f-e2199607184c)
 --- PWM (Pulse Width Modulation) pin มี < ~ > นำหน้า
