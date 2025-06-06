@@ -13,8 +13,9 @@ void setup() {
 
 void loop() 
 {
-  int rawSensorValue = analogRead(SENSOR_PIN);
-  int temperatureCelsius = map(rawSensorValue, RAW_MIN, RAW_MAX, TEMP_MIN, TEMP_MAX);
+  int rawSensorValue = analogRead(SENSOR_PIN);// RawData function
+  int temperatureCelsius = map(rawSensorValue, RAW_MIN, RAW_MAX, TEMP_MIN, TEMP_MAX);//MapData to °C function
+  //UI function
   Serial.print("Raw: ");
   Serial.print(rawSensorValue);
   Serial.print("   Temp: ");
