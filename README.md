@@ -6,10 +6,14 @@ Test Adoino on tinkercad
 - power 3.3v
 - Vout A0 pin
 # Ardoino motion sensor
-![image](https://github.com/user-attachments/assets/fc6f8aa7-6bb7-4ee6-b397-1b3b6b949408)
+![image](https://github.com/user-attachments/assets/49416acc-f4b5-4024-ab0f-e2199607184c)
 ## Ardoino Uno R3
 ## Passsive infrarad Sensors (PIR)
 - power 5v
 - Signal D2 pin
+## LED
+- Anode D4 pin
+- - Resistor 1 kΩ
+- GND Dathode
 
 
