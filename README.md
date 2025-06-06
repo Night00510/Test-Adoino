@@ -18,6 +18,6 @@ Test Adoino on tinkercad
 ## LED
 - Anode A5 หรือ D3 pin < PWM pin ปรับความสว่างได้ >
 - - Resistor 220 Ω
-- GND Dathode
+- GND Cathode
 
 
