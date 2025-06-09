@@ -6,6 +6,7 @@ Test Adoino on tinkercad
 - power 3.3v
 - Vout A0 pin
 # [Ardoino motion sensor](https://www.tinkercad.com/things/3eUQEekE9Ae-ardoino-motion-sensor)
+## ยังไม่มี function เปิดไฟค้างเมือขยับ และ ปิดไฟเมื่อขยับอีกคลั้ง
 --- digital pin
 ![image](https://github.com/user-attachments/assets/49416acc-f4b5-4024-ab0f-e2199607184c)
 --- PWM (Pulse Width Modulation) pin มี < ~ > นำหน้า
