@@ -22,16 +22,16 @@ void loop()
   //Fan
  if(temp <= 20)
  {
-   Serial.println("Level 0");
+   Serial.println("Fan lv.0");
    analogWrite(3,0);
  }else if(temp <= 40){
-   Serial.println("Level 1");
+   Serial.println("Fan lv.1");
    analogWrite(3,100);
  }else if(temp <= 50){
-   Serial.println("Level 2");
+   Serial.println("Fan lv.2");
    analogWrite(3,175);
- }else if(temp = 60){
-   Serial.println("Level 3");
+ }else if(temp > 50){
+   Serial.println("Fan lv.3");
    analogWrite(3,255);
  }
   delay(1000);
